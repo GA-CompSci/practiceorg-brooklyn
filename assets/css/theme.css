@@ -1545,7 +1545,7 @@ body.theme-font-nunito {
   font-family: "Nunito", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h5, h6 {
   letter-spacing: -0.3px;
   line-height: 1.4;
   color: #121518;
@@ -1553,6 +1553,21 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+h2  {
+  letter-spacing: -0.3px;
+  line-height: 1.4;
+  color: #BB3E03;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+ h4 {
+  letter-spacing: -0.3px;
+  line-height: 1.4;
+  color: #CA6702;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
 .theme-font-nunito h1, .theme-font-nunito h2, .theme-font-nunito h3, .theme-font-nunito h4, .theme-font-nunito h5, .theme-font-nunito h6 {
   font-family: "Nunito", sans-serif;
 }
